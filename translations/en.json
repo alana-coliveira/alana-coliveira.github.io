@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "lang": "en",
+    "title": "Alana Carmo de Oliveira | Ecology and Conservation",
+    "description": "Academic website of Alana Carmo de Oliveira, PhD candidate in Ecology and Biodiversity Conservation at UESC."
+  },
+  "identity": {
+    "shortTitle": "Ecology and Conservation",
+    "institution": "State University of Santa Cruz (UESC)",
+    "highlight": "Understanding ecological interactions and their role in the conservation and restoration of Atlantic Forest biodiversity."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "research": "Research",
+    "publications": "Publications",
+    "projects": "Projects",
+    "gallery": "Gallery",
+    "cv": "CV",
+    "contact": "Contact"
+  },
+  "hero": {
+    "name": "Alana Carmo de Oliveira",
+    "title": "PhD Candidate in Ecology and Biodiversity Conservation",
+    "focus": "Interaction Ecology · Ecological Networks · Conservation · Restoration",
+    "noteLabel": "Current focus",
+    "noteTitle": "Frugivore-palm networks",
+    "noteText": "Seed dispersal, ecological connectivity and restoration in Atlantic Forest fragments.",
+    "buttons": {
+      "about": "About Me",
+      "current": "Current Project",
+      "publications": "Publications",
+      "contact": "Contact"
+    }
+  },
+  "about": {
+    "kicker": "About Me",
+    "title": "An interaction ecologist with experience across marine, estuarine and terrestrial systems.",
+    "bio": "I am a PhD candidate in Ecology and Biodiversity Conservation at UESC, with an MSc in Environmental Sciences and Technologies from IFBA/UFSB and a BSc in Biological Sciences from UFSB. I developed a strong background in marine ecology at LECOMAR (UFSB), where I investigated sea turtle ecology and larval transport. My experience also includes ecotoxicology, with a focus on environmental contaminants. I currently conduct research at LEAC and LABINT (UESC), studying frugivory interactions with an emphasis on palms. I am particularly interested in expanding collaborations that apply my expertise in interaction ecology and conservation to projects involving avifauna."
+  },
+  "timeline": {
+    "kicker": "Education",
+    "title": "Academic timeline",
+    "projectLabel": "Project:",
+    "dissertationLabel": "Master's thesis:",
+    "thesisLabel": "Undergraduate thesis:",
+    "items": {
+      "phd": {
+        "period": "2025 – Present",
+        "degree": "PhD in Ecology and Biodiversity Conservation",
+        "institution": "State University of Santa Cruz (UESC)",
+        "project": "Frugivore-palm interaction networks: connecting fragments of the Central Atlantic Forest Corridor."
+      },
+      "master": {
+        "period": "2022 – 2024",
+        "degree": "MSc in Environmental Sciences and Technologies",
+        "institution": "Federal University of Southern Bahia and Federal Institute of Southern Bahia",
+        "project": "Assessment of aquatic macroinvertebrates under microplastic contamination: from ingestion to ecological community structure."
+      },
+      "bio": {
+        "period": "2015 – 2022",
+        "degree": "BSc in Biological Sciences",
+        "institution": "Federal University of Southern Bahia",
+        "project": "Spatiotemporal distribution of fish post-larvae in estuaries along the eastern coast after the Fundao dam collapse, Brazil."
+      },
+      "interdisciplinary": {
+        "period": "2015 – 2018",
+        "degree": "Interdisciplinary Bachelor's Degree in Natural Sciences and Technologies",
+        "institution": "Federal University of Southern Bahia",
+        "project": "Hatching success of sea turtle nests on the Santo Andre shoreline, Bahia, Brazil."
+      }
+    }
+  },
+  "experience": {
+    "kicker": "Scientific Experience",
+    "title": "Interdisciplinary work in ecology applied to conservation.",
+    "cards": {
+      "ecotox": { "title": "Environmental ecotoxicology", "text": "Research on environmental contaminants and their effects on aquatic organisms and communities." },
+      "marine": { "title": "Marine and estuarine ecology", "text": "Studies on sea turtles, fish larvae and coastal ecological processes." },
+      "monitoring": { "title": "Environmental monitoring", "text": "Monitoring ecological impacts and natural-system responses to disturbances." },
+      "education": { "title": "Environmental education", "text": "Outreach activities, scientific training and communication with diverse audiences." }
+    }
+  },
+  "researchLines": {
+    "kicker": "Research Lines",
+    "title": "Ecological questions connected to Atlantic Forest restoration.",
+    "items": {
+      "interactions": "Interaction Ecology",
+      "networks": "Ecological Networks",
+      "fragmentation": "Habitat Fragmentation",
+      "restoration": "Ecological Restoration",
+      "conservation": "Biodiversity Conservation"
+    }
+  },
+  "interests": {
+    "kicker": "Research Interests",
+    "title": "Research Interests",
+    "text": "I investigate how plant-animal interactions shape ecological networks, functional connectivity and restoration processes in fragmented landscapes.",
+    "imageAlt": "Humid tropical forest representing Atlantic Forest environments",
+    "tags": {
+      "frugivory": "Frugivory",
+      "seed": "Seed dispersal",
+      "birds": "Frugivorous birds",
+      "palms": "Palms",
+      "restoration": "Restoration"
+    }
+  },
+  "doctoral": {
+    "kicker": "Doctoral Project",
+    "title": "Frugivore-palm interaction networks: connecting fragments of the Central Atlantic Forest Corridor",
+    "objectives": {
+      "keySpecies": "Identify key species",
+      "networks": "Assess the structure of ecological networks",
+      "fragmentation": "Investigate the effects of fragmentation",
+      "restoration": "Support Atlantic Forest restoration strategies"
+    }
+  },
+  "projects": {
+    "kicker": "Previous Projects",
+    "title": "Experience connecting organisms, environments and impacts.",
+    "items": {
+      "microplastics": "Microplastics in aquatic macroinvertebrates",
+      "mariana": "Environmental monitoring after the Mariana disaster",
+      "reefs": "Phase shifts in coral reefs and fish behavior",
+      "estuarine": "Ecology of estuarine fishes",
+      "turtles": "Sea turtle ecology"
+    }
+  },
+  "publications": {
+    "kicker": "Publications",
+    "title": "Published articles",
+    "items": {
+      "glitter": {
+        "title": "Glitter ingestion by bromeliad-dwelling macroinvertebrates: implications for freshwater microplastic contamination",
+        "journal": "Environmental Toxicology and Chemistry."
+      },
+      "odonata": {
+        "title": "Microplastic bioaccumulation in odonata larvae: Integrating evidence from experimental studies in freshwater microcosm",
+        "journal": "Chemosphere."
+      }
+    },
+    "future": {
+      "title": "Future publications",
+      "text": "New work will be added to this section."
+    }
+  },
+  "outreach": {
+    "kicker": "Outreach and Science Communication",
+    "title": "Science in dialogue with students, communities and collaborative networks.",
+    "items": {
+      "zoologia": "Zoologia em Rede",
+      "education": "Participation in environmental education initiatives",
+      "communication": "Science communication",
+      "students": "Student training"
+    }
+  },
+  "gallery": {
+    "kicker": "Gallery",
+    "title": "Temporary images representing fieldwork, laboratory work and Atlantic Forest ecology.",
+    "items": {
+      "field": "Fieldwork",
+      "forest": "Atlantic Forest",
+      "birds": "Frugivorous birds",
+      "palms": "Palms",
+      "lab": "Laboratory",
+      "congress": "Conferences"
+    }
+  },
+  "cv": {
+    "kicker": "Curriculum",
+    "title": "Academic profiles and scientific output",
+    "lead": "A prepared area for the updated CV, academic identifiers and scientific profiles.",
+    "links": {
+      "lattes": "Lattes CV"
+    }
+  },
+  "contact": {
+    "kicker": "Contact",
+    "title": "Open to collaborations in interaction ecology, conservation and avifauna.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send message"
+    }
+  },
+  "footer": {
+    "text": "© 2026 Alana Carmo de Oliveira. Ecology, conservation and Atlantic Forest restoration."
+  }
+}

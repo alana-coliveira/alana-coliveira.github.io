@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "lang": "es",
+    "title": "Alana Carmo de Oliveira | Ecología y Conservación",
+    "description": "Sitio académico de Alana Carmo de Oliveira, doctoranda en Ecología y Conservación de la Biodiversidad en la UESC."
+  },
+  "identity": {
+    "shortTitle": "Ecología y Conservación",
+    "institution": "Universidad Estatal de Santa Cruz (UESC)",
+    "highlight": "Comprender las interacciones ecológicas y su papel en la conservación y restauración de la biodiversidad de la Mata Atlántica."
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "research": "Investigación",
+    "publications": "Publicaciones",
+    "projects": "Proyectos",
+    "gallery": "Galería",
+    "cv": "CV",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "name": "Alana Carmo de Oliveira",
+    "title": "Doctoranda en Ecología y Conservación de la Biodiversidad",
+    "focus": "Ecología de Interacciones · Redes Ecológicas · Conservación · Restauración",
+    "noteLabel": "Enfoque actual",
+    "noteTitle": "Redes frugívoros-palmeras",
+    "noteText": "Dispersión de semillas, conectividad ecológica y restauración en fragmentos de Mata Atlántica.",
+    "buttons": {
+      "about": "Sobre Mí",
+      "current": "Proyecto Actual",
+      "publications": "Publicaciones",
+      "contact": "Contacto"
+    }
+  },
+  "about": {
+    "kicker": "Sobre Mí",
+    "title": "Ecóloga de interacciones con experiencia en sistemas marinos, estuarinos y terrestres.",
+    "bio": "Soy doctoranda en Ecología y Conservación de la Biodiversidad en la UESC, magíster en Ciencias y Tecnologías Ambientales por IFBA/UFSB y bachiller en Ciencias Biológicas por UFSB. Desarrollé una sólida trayectoria en ecología marina en LECOMAR (UFSB), donde investigué la ecología de tortugas marinas y el transporte larval. Mi experiencia también incluye ecotoxicología, con énfasis en contaminantes ambientales. Actualmente, como investigadora en los laboratorios LEAC y LABINT (UESC), estudio interacciones de frugivoría, con énfasis en palmeras. Tengo especial interés en ampliar colaboraciones que apliquen mi experiencia en ecología de interacciones y conservación a proyectos con avifauna."
+  },
+  "timeline": {
+    "kicker": "Formación",
+    "title": "Trayectoria académica",
+    "projectLabel": "Proyecto:",
+    "dissertationLabel": "Tesis de maestría:",
+    "thesisLabel": "Trabajo final de grado:",
+    "items": {
+      "phd": {
+        "period": "2025 – Actualidad",
+        "degree": "Doctorado en Ecología y Conservación de la Biodiversidad",
+        "institution": "Universidad Estatal de Santa Cruz (UESC)",
+        "project": "Red de interacciones frugívoros-palmeras: conectando fragmentos del Corredor Central de la Mata Atlántica."
+      },
+      "master": {
+        "period": "2022 – 2024",
+        "degree": "Maestría en Ciencias y Tecnologías Ambientales",
+        "institution": "Universidad Federal del Sur de Bahía e Instituto Federal del Sur de Bahía",
+        "project": "Evaluación de macroinvertebrados acuáticos frente a la contaminación por microplásticos: de la ingestión a la estructura de la comunidad ecológica."
+      },
+      "bio": {
+        "period": "2015 – 2022",
+        "degree": "Licenciatura en Ciencias Biológicas",
+        "institution": "Universidad Federal del Sur de Bahía",
+        "project": "Distribución espacio-temporal de postlarvas de peces en estuarios de la costa oriental tras la ruptura de la presa de Fundao, Brasil."
+      },
+      "interdisciplinary": {
+        "period": "2015 – 2018",
+        "degree": "Bachillerato Interdisciplinario en Ciencias de la Naturaleza y sus Tecnologías",
+        "institution": "Universidad Federal del Sur de Bahía",
+        "project": "Éxito de eclosión de nidos de tortugas marinas en la costa de Santo Andre, Bahía, Brasil."
+      }
+    }
+  },
+  "experience": {
+    "kicker": "Experiencia Científica",
+    "title": "Trabajo interdisciplinario en ecología aplicada a la conservación.",
+    "cards": {
+      "ecotox": { "title": "Ecotoxicología ambiental", "text": "Investigación sobre contaminantes ambientales y sus efectos en organismos y comunidades acuáticas." },
+      "marine": { "title": "Ecología marina y estuarina", "text": "Estudios sobre tortugas marinas, larvas de peces y procesos ecológicos costeros." },
+      "monitoring": { "title": "Monitoreo ambiental", "text": "Seguimiento de impactos ecológicos y respuestas de sistemas naturales a perturbaciones." },
+      "education": { "title": "Educación ambiental", "text": "Actividades de extensión, formación científica y comunicación con públicos diversos." }
+    }
+  },
+  "researchLines": {
+    "kicker": "Líneas de Investigación",
+    "title": "Preguntas ecológicas conectadas con la restauración de la Mata Atlántica.",
+    "items": {
+      "interactions": "Ecología de Interacciones",
+      "networks": "Redes Ecológicas",
+      "fragmentation": "Fragmentación del Hábitat",
+      "restoration": "Restauración Ecológica",
+      "conservation": "Conservación de la Biodiversidad"
+    }
+  },
+  "interests": {
+    "kicker": "Intereses de Investigación",
+    "title": "Intereses de investigación",
+    "text": "Investigo cómo las interacciones planta-animal moldean redes ecológicas, conectividad funcional y procesos de restauración en paisajes fragmentados.",
+    "imageAlt": "Bosque tropical húmedo que representa ambientes de la Mata Atlántica",
+    "tags": {
+      "frugivory": "Frugivoría",
+      "seed": "Dispersión de semillas",
+      "birds": "Aves frugívoras",
+      "palms": "Palmeras",
+      "restoration": "Restauración"
+    }
+  },
+  "doctoral": {
+    "kicker": "Proyecto Doctoral",
+    "title": "Red de interacciones frugívoros-palmeras: conectando fragmentos del Corredor Central de la Mata Atlántica",
+    "objectives": {
+      "keySpecies": "Identificar especies clave",
+      "networks": "Evaluar la estructura de las redes ecológicas",
+      "fragmentation": "Investigar los efectos de la fragmentación",
+      "restoration": "Apoyar estrategias de restauración de la Mata Atlántica"
+    }
+  },
+  "projects": {
+    "kicker": "Proyectos Anteriores",
+    "title": "Experiencias que conectan organismos, ambientes e impactos.",
+    "items": {
+      "microplastics": "Microplásticos en macroinvertebrados acuáticos",
+      "mariana": "Monitoreo ambiental después del desastre de Mariana",
+      "reefs": "Cambios de fase en arrecifes de coral y comportamiento de peces",
+      "estuarine": "Ecología de peces estuarinos",
+      "turtles": "Ecología de tortugas marinas"
+    }
+  },
+  "publications": {
+    "kicker": "Publicaciones",
+    "title": "Artículos publicados",
+    "items": {
+      "glitter": {
+        "title": "Glitter ingestion by bromeliad-dwelling macroinvertebrates: implications for freshwater microplastic contamination",
+        "journal": "Environmental Toxicology and Chemistry."
+      },
+      "odonata": {
+        "title": "Microplastic bioaccumulation in odonata larvae: Integrating evidence from experimental studies in freshwater microcosm",
+        "journal": "Chemosphere."
+      }
+    },
+    "future": {
+      "title": "Futuras publicaciones",
+      "text": "Nuevos trabajos serán añadidos a esta sección."
+    }
+  },
+  "outreach": {
+    "kicker": "Extensión y Divulgación Científica",
+    "title": "Ciencia en diálogo con estudiantes, comunidades y redes de colaboración.",
+    "items": {
+      "zoologia": "Zoologia em Rede",
+      "education": "Participación en acciones de educación ambiental",
+      "communication": "Divulgación científica",
+      "students": "Formación de estudiantes"
+    }
+  },
+  "gallery": {
+    "kicker": "Galería",
+    "title": "Imágenes temporales para representar campo, laboratorio y ecología de la Mata Atlántica.",
+    "items": {
+      "field": "Trabajo de campo",
+      "forest": "Mata Atlántica",
+      "birds": "Aves frugívoras",
+      "palms": "Palmeras",
+      "lab": "Laboratorio",
+      "congress": "Congresos"
+    }
+  },
+  "cv": {
+    "kicker": "Currículo",
+    "title": "Perfiles académicos y producción científica",
+    "lead": "Área preparada para reunir el currículo actualizado, identificadores académicos y perfiles científicos.",
+    "links": {
+      "lattes": "Currículo Lattes"
+    }
+  },
+  "contact": {
+    "kicker": "Contacto",
+    "title": "Abierta a colaboraciones en ecología de interacciones, conservación y avifauna.",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "message": "Mensaje",
+      "submit": "Enviar mensaje"
+    }
+  },
+  "footer": {
+    "text": "© 2026 Alana Carmo de Oliveira. Ecología, conservación y restauración de la Mata Atlántica."
+  }
+}

@@ -57,9 +57,6 @@
         <div class="hero-content reveal">
           <p class="eyebrow" data-i18n="identity.institution">Universidade Estadual de Santa Cruz (UESC)</p>
           <h1 data-i18n="hero.name">Alana Carmo de Oliveira</h1>
-          <img src="assets/assets/images/alana.jpg"
-     alt="Alana Carmo de Oliveira"
-     class="hero-photo">
           <p class="hero-title" data-i18n="hero.title">Doutoranda em Ecologia e Conservação da Biodiversidade</p>
           <p class="hero-focus" data-i18n="hero.focus">Ecologia de Interações · Redes Ecológicas · Conservação · Restauração</p>
           <p class="hero-line" data-i18n="identity.highlight">Compreender as interações ecológicas e sua influência para a conservação e restauração da biodiversidade da Mata Atlântica.</p>
@@ -70,6 +67,9 @@
             <a class="btn btn-light" href="#contato" data-i18n="hero.buttons.contact">Contato</a>
           </div>
         </div>
+        <img src="assets/assets/images/alana.jpg"
+     alt="Alana Carmo de Oliveira"
+     class="hero-photo">
         <aside class="hero-field-note reveal" aria-label="Research focus">
           <span data-i18n="hero.noteLabel">Current focus</span>
           <strong data-i18n="hero.noteTitle">Frugivore-palm networks</strong>
@@ -376,3 +376,18 @@
     <script src="assets/js/i18n.js" defer></script>
   </body>
 </html>
+.hero-photo-container {
+    position: absolute;
+    top: 180px;
+    right: 80px;
+    z-index: 5;
+}
+
+.hero-photo {
+    width: 220px !important;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid rgba(255,255,255,0.8);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.35);
+}

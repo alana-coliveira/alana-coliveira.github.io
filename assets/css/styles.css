@@ -1087,6 +1087,18 @@ h3 {
     box-shadow: 0 8px 20px rgba(0,0,0,0.25);
 
     float: right;
+.hero-photo-container {
+    position: absolute;
+    top: 180px;
+    right: 80px;
+    z-index: 5;
+}
 
+.hero-photo {
+    width: 220px !important;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid rgba(255,255,255,0.8);
     margin: 20px 0 20px 40px;
 }

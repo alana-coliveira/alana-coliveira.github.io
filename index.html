@@ -266,7 +266,7 @@
           </div>
           <div class="gallery-grid">
             <figure class="gallery-item reveal">
-              <img src="<img src="assets/assets/images/mt.jpg" alt="" data-i18n-attr="alt:gallery.items.forest">
+             <img src="assets/assets/images/mt.jpg" alt="" data-i18n-attr="alt:gallery.items.forest">
               <figcaption data-i18n="gallery.items.forest">Mata Atlântica</figcaption>
             </figure>
             <figure class="gallery-item reveal">
@@ -318,7 +318,7 @@
               <a href="https://www.instagram.com/alanacdl" target="_blank" rel="noreferrer">Instagram · @alanacdl</a>
             </div>
           </div>
-          <form class="contact-form reveal" data-contact-form>
+          <form id="contact-form" class="contact-form reveal">
             <label>
               <span data-i18n="contact.form.name">Nome</span>
               <input type="text" name="name" autocomplete="name" required data-contact-name>
@@ -342,8 +342,32 @@
     </footer>
 
     <script src="assets/js/i18n.js" defer></script>
-  </body>
+
+<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+
+<script>
+emailjs.init("vMW3uWXwsSOr5foyN");
+
+document.getElementById("contact-form").addEventListener("submit", function(event) {
+    event.preventDefault();
+
+    emailjs.sendForm(
+        "service_lu3j3dp",
+        "template_y488m0f",
+        this
+    )
+    .then(function() {
+        alert("Mensagem enviada com sucesso!");
+        document.getElementById("contact-form").reset();
+    })
+    .catch(function(error) {
+        alert("Erro ao enviar mensagem.");
+        console.log(error);
+    });
+});
+</script>
+
+</body>
 </html>
 
-    box-shadow: 0 8px 24px rgba(0,0,0,0.35);
-}
+

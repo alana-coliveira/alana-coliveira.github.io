@@ -341,33 +341,45 @@
       <p data-i18n="footer.text">© 2026 Alana Carmo de Oliveira. Ecologia, conservação e restauração da Mata Atlântica.</p>
     </footer>
 
-    <script src="assets/js/i18n.js" defer></script>
+<script src="assets/js/i18n.js" defer></script>
 
 <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
 
 <script>
-emailjs.init("vMW3uWXwsSOr5foyN");
+window.onload = function () {
 
-document.getElementById("contact-form").addEventListener("submit", function(event) {
-    event.preventDefault();
-
-    emailjs.sendForm(
-        "service_lu3j3dp",
-        "template_y488m0f",
-        this
-    )
-    .then(function() {
-        alert("Mensagem enviada com sucesso!");
-        document.getElementById("contact-form").reset();
-    })
-    .catch(function(error) {
-        alert("Erro ao enviar mensagem.");
-        console.log(error);
+    emailjs.init({
+        publicKey: "vMW3uWXwsSOr5foyN"
     });
-});
+
+    const form = document.getElementById("contact-form");
+
+    if (!form) {
+        console.error("Formulário não encontrado.");
+        return;
+    }
+
+    form.addEventListener("submit", function(event) {
+        event.preventDefault();
+
+        emailjs.sendForm(
+            "service_lu3j3dp",
+            "template_y488m0f",
+            this
+        )
+        .then(function(response) {
+            alert("Mensagem enviada com sucesso!");
+            form.reset();
+            console.log("SUCCESS!", response.status, response.text);
+        })
+        .catch(function(error) {
+            alert("Erro ao enviar mensagem.");
+            console.error("FAILED...", error);
+        });
+    });
+
+};
 </script>
 
 </body>
 </html>
-
-
